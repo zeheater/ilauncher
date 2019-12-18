@@ -1,0 +1,43 @@
+<resources>
+    <dimen name="recyclerview_gap">8dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_horizontal_onehalfmargin">24dp</dimen>
+    <dimen name="activity_horizontal_halfmargin">8dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_vertical_onehalfmargin">24dp</dimen>
+    <dimen name="activity_vertical_halfmargin">8dp</dimen>
+    <dimen name="activity_quad_vertical_margin">64dp</dimen>
+    <dimen name="leftpanel_button_height">48dp</dimen>
+    <dimen name="leftpanel_button_width">48dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="text_padding">4dp</dimen>
+    <dimen name="no_spacing">0dp</dimen>
+    <dimen name="small_spacing">4dp</dimen>
+    <dimen name="medium_spacing">8dp</dimen>
+    <dimen name="large_spacing">12dp</dimen>
+    <dimen name="cart_margin">8dp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_below_medium">16sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_large2">27sp</dimen>
+    <dimen name="text_size_super_large">32sp</dimen>
+    <dimen name="cartbuffer_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab2_margin">10dp</dimen>
+    <dimen name="spacingdecor">20dp</dimen>
+    <dimen name="buttonpaddinghorizontal">32dp</dimen>
+    <dimen name="buttonpaddingvertical">20dp</dimen>
+    <dimen name="cardviewsize">164dp</dimen>
+    <dimen name="cartcountsize">10sp</dimen>
+    <dimen name="cartmenuiconsize">35dp</dimen>
+    <dimen name="buttonheight">50dp</dimen>
+    <dimen name="changehostbtn">32dp</dimen>
+    <dimen name="leftqueuewidth">0dp</dimen>
+    <item name="queue_percent_screen" format="float" type="dimen">.3</item>
+    <item name="right_panel_percent" format="float" type="dimen">.38</item>
+    <item name="paydialog_right_panel_percent" format="float" type="dimen">.57</item>
+    <dimen name="testdimen">.38</dimen>
+</resources>
